@@ -1,0 +1,14 @@
+{
+  "name": "aut-pro-sandra-rada",
+  "version": "1.0.0",
+  "description": "Test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "project-name-generator": "^2.1.9"
+  }
+}
