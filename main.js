@@ -1,2 +1,2 @@
-import { sayHello } from './sayHello.js'
-sayHello('Sandra');
+import {sayHi} from './sayHello.js'
+sayHi('Sandra Rada');
