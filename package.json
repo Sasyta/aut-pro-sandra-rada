@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "Test automation",
   "main": "index.js",
+  
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "generate-id": "^2.0.1",
     "project-name-generator": "^2.1.9"
   }
 }
