@@ -1,17 +1,24 @@
 {
   "name": "aut-pro-sandra-rada",
   "version": "1.0.0",
-  "description": "Test automation",
+  "description": "",
   "main": "index.js",
-  "type": "module",
-  
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open" : "cypress open"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasyta/aut-pro-sandra-rada.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sasyta/aut-pro-sandra-rada/issues"
+  },
+  "homepage": "https://github.com/Sasyta/aut-pro-sandra-rada#readme",
   "dependencies": {
-    "generate-id": "^2.0.1",
-    "project-name-generator": "^2.1.9"
+    "cypress": "^8.7.0"
   }
 }
